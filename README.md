@@ -1,0 +1,2 @@
+# oopgyak
+oop gyakorlat 
